@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Julian Actualizado!",
+      "empresa": "Seriff",
+      "email": "julian98mesa@gmail.com",
+      "telefono": "320 7673530",
+      "notas": "Cliente satisfecho",
+      "id": 2
+    },
+    {
+      "nombre": "Julian David Mesa",
+      "empresa": "Seriff",
+      "email": "julian98mesa@gmail.com",
+      "telefono": "320 7673530",
+      "notas": "Cliente Triste",
+      "id": 5
+    },
+    {
+      "nombre": "Carlina Emperatriz",
+      "empresa": "Mascotlas",
+      "email": "carlina@gmail.com",
+      "telefono": "3205874692",
+      "notas": "Pide crear una pagina web con base de datos para su empresa",
+      "id": 6
+    },
+    {
+      "nombre": "Yenny",
+      "empresa": "Galaxia",
+      "email": "yenny@gmail.com",
+      "telefono": "3214963571",
+      "notas": "Necesita otro WhatsApp",
+      "id": 7
+    },
+    {
+      "nombre": "Helen",
+      "empresa": "Sembradores de Paz",
+      "email": "helen@gmail.com",
+      "telefono": "3504699863",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Pacha",
+      "empresa": "Vico Farms",
+      "email": "pacha@gmail.com",
+      "telefono": "",
+      "notas": "",
+      "id": 9
+    }
+  ]
+}
